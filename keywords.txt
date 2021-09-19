@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For 
+# NITROcompetition Librarry
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+NITROcompetition	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin   KEYWORD2
+getStartSignal  KEYWORD2
+sendFinishSignal    KEYWORD2
+handleInterrupt KEYWORD2
+esp_to_mega_isr KEYWORD2
+
+#######################################
+# System Variables (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################

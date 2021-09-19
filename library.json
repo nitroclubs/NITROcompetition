@@ -1,0 +1,23 @@
+{
+    "name":"NITROcompetition",
+    "description":"NITRObot librarry used to communicate with the competition server via ESP-01 module connected to Arduino Mega pins 20 and 21.2",
+    "keywords":"nitrobot,mqtt,wifi,iot",
+    "authors": [
+        {
+          "name": "Stefan Chivarov",
+          "email": "nitroclubseu@gmail.com",
+          "url": "https://nitroclubs.eu/",
+          "maintainer": true
+        }
+    ],
+    "license": "Apache-2.0",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/nitroclubs"
+    },
+    "version": "1.0",
+    "frameworks": "arduino",
+    "platforms": ["atmelavr"]
+  }
+  
