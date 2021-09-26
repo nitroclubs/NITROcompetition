@@ -1,9 +1,9 @@
 #include <Arduino.h>
 
-// NITROcompetition is a NITRObot library, used to communicate with the competition server.
+// NITROcompetition is a NITRObot librarry, used to communicate with the competition server.
 // via an ESP-01 module (flashed and configured with Tasmota firmware) connected to the Arduino Mega on pins 20 and 21.
 // NITRObot gets the start signal and sends finish signal to the server (over MQTT protocol) via the ESP-01 WiFi module.
-// Download and install the library from https://github.com/nitroclubs
+// Download and install the librarry from https://github.com/nitroclubs/NITROcompetition.git 
 #include <NITROcompetition.h>
 
 // PREREQUISITS:
