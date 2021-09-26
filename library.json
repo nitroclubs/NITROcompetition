@@ -1,6 +1,6 @@
 {
     "name":"NITROcompetition",
-    "description":"NITRObot librarry used to communicate with the competition server via ESP-01 module connected to Arduino Mega pins 20 and 21.2",
+    "description":"NITRObot library used to communicate with the competition server via ESP-01 module connected to Arduino Mega pins 20 and 21.2",
     "keywords":"nitrobot,mqtt,wifi,iot",
     "authors": [
         {
